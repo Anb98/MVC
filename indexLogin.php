@@ -5,9 +5,8 @@
 	<title>login</title>
 </head>
 <body>
-
 	<form action="controller/UsuarioController.php" method="post" style="padding: 280px;">
-		<table style="margin: auto; vertical-align: center;border: solid black 1px;padding: 10px">
+		<table style="margin: auto; vertical-align: center;border: solid darkgreen 1px;padding: 10px">
 			<tr>
 				<td><label>Usuario</label></td>
 				<td><input type="text" name="username" required></td>
